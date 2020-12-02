@@ -1,0 +1,7 @@
+D:\study\c-sharp\Day2\Assignment-1\bin\Debug\Assignment-1.exe.config
+D:\study\c-sharp\Day2\Assignment-1\bin\Debug\Assignment-1.exe
+D:\study\c-sharp\Day2\Assignment-1\bin\Debug\Assignment-1.pdb
+D:\study\c-sharp\Day2\Assignment-1\obj\Debug\Assignment-1.csprojAssemblyReference.cache
+D:\study\c-sharp\Day2\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+D:\study\c-sharp\Day2\Assignment-1\obj\Debug\Assignment-1.exe
+D:\study\c-sharp\Day2\Assignment-1\obj\Debug\Assignment-1.pdb

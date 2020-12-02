@@ -1,0 +1,6 @@
+D:\study\c-sharp\Day2\AccessSpecifires\bin\Debug\AccessSpecifires.dll
+D:\study\c-sharp\Day2\AccessSpecifires\bin\Debug\AccessSpecifires.pdb
+D:\study\c-sharp\Day2\AccessSpecifires\obj\Debug\AccessSpecifires.csprojAssemblyReference.cache
+D:\study\c-sharp\Day2\AccessSpecifires\obj\Debug\AccessSpecifires.csproj.CoreCompileInputs.cache
+D:\study\c-sharp\Day2\AccessSpecifires\obj\Debug\AccessSpecifires.dll
+D:\study\c-sharp\Day2\AccessSpecifires\obj\Debug\AccessSpecifires.pdb

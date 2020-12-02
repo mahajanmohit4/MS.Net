@@ -1,0 +1,7 @@
+D:\study\c-sharp\Day2\Second-StaticMember\bin\Debug\Second-StaticMember.exe.config
+D:\study\c-sharp\Day2\Second-StaticMember\bin\Debug\Second-StaticMember.exe
+D:\study\c-sharp\Day2\Second-StaticMember\bin\Debug\Second-StaticMember.pdb
+D:\study\c-sharp\Day2\Second-StaticMember\obj\Debug\Second-StaticMember.csprojAssemblyReference.cache
+D:\study\c-sharp\Day2\Second-StaticMember\obj\Debug\Second-StaticMember.csproj.CoreCompileInputs.cache
+D:\study\c-sharp\Day2\Second-StaticMember\obj\Debug\Second-StaticMember.exe
+D:\study\c-sharp\Day2\Second-StaticMember\obj\Debug\Second-StaticMember.pdb
