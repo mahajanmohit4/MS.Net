@@ -1,0 +1,6 @@
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.exe.config
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.exe
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.pdb
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.exe
+D:\study\DotNet\MS.Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.pdb
