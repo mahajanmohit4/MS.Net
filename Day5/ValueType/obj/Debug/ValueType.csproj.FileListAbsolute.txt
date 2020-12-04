@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day5\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day5\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day5\ValueType\bin\Debug\ValueType.exe.config
+D:\study\DotNet\MS.Net\Day5\ValueType\bin\Debug\ValueType.exe
+D:\study\DotNet\MS.Net\Day5\ValueType\bin\Debug\ValueType.pdb
+D:\study\DotNet\MS.Net\Day5\ValueType\obj\Debug\ValueType.exe
+D:\study\DotNet\MS.Net\Day5\ValueType\obj\Debug\ValueType.pdb

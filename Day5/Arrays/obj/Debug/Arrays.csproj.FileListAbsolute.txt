@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day5\Arrays\bin\Debug\Arrays.exe.config
+D:\study\DotNet\MS.Net\Day5\Arrays\bin\Debug\Arrays.exe
+D:\study\DotNet\MS.Net\Day5\Arrays\bin\Debug\Arrays.pdb
+D:\study\DotNet\MS.Net\Day5\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day5\Arrays\obj\Debug\Arrays.exe
+D:\study\DotNet\MS.Net\Day5\Arrays\obj\Debug\Arrays.pdb
+D:\study\DotNet\MS.Net\Day5\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache

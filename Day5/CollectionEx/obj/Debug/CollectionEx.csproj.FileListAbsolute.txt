@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day5\CollectionEx\bin\Debug\CollectionEx.exe.config
+D:\study\DotNet\MS.Net\Day5\CollectionEx\bin\Debug\CollectionEx.exe
+D:\study\DotNet\MS.Net\Day5\CollectionEx\bin\Debug\CollectionEx.pdb
+D:\study\DotNet\MS.Net\Day5\CollectionEx\obj\Debug\CollectionEx.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day5\CollectionEx\obj\Debug\CollectionEx.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day5\CollectionEx\obj\Debug\CollectionEx.exe
+D:\study\DotNet\MS.Net\Day5\CollectionEx\obj\Debug\CollectionEx.pdb

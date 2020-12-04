@@ -59,11 +59,11 @@ namespace Assignment03
             private int empNO;
             public static int id;
             private short deptNo;
-            private decimal basicSal;
+            private readonly decimal basicSal;
             public abstract decimal calcNetSalary();
             public Employee()
             {
-                    
+
             }
             public void Insert()
             {
