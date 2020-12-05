@@ -131,7 +131,10 @@ namespace CollectionEx
             objEmp.Add(new Employee { EmpNO = 1, Name = "Mohit", DeptNo = 10, Basic = 120000 });
             objEmp.Add(new Employee { EmpNO = 1, Name = "Mohit", DeptNo = 10, Basic = 120000 });
 
-            
+            foreach (object i in objEmp)
+            {
+                //((Employee)i).EmpNO;
+            }
 
             Console.ReadLine();
 
