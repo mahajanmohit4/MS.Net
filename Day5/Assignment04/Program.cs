@@ -10,17 +10,28 @@ namespace Assignment04
     {
         static void Main1(string[] args)
         {
-            object[] arr1 = new object[1];
+           // object[] arr1 = new object[1];
             Employees[] arr = new Employees[3];
-            Employees emp1 = new Employees(1,"Mohit",1200000);
-            Employees emp2 = new Employees(2, "Amit", 1200000);
-            Employees emp3 = new Employees(3, "Jadu", 12000);
+            //Employees emp1 = new Employees(1,"Mohit",1200000);
+            //Employees emp2 = new Employees(2, "Amit", 1200000);
+            //Employees emp3 = new Employees(3, "Jadu", 12000);
 
            
            
-            arr[0] = emp1;
-            arr[1] = emp2;
-            arr[2] = emp3;
+            //arr[0] = emp1;
+            //arr[1] = emp2;
+            //arr[2] = emp3;
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write($"Enter Employee {i} Id  : ");
+                int id = Convert.ToInt32(Console.ReadLine());
+                Console.Write($"Enter Employee {i} Name : ");
+                string name = Console.ReadLine();
+                Console.Write($"Enter Employee {i} Sal : ");
+                decimal sal = Convert.ToDecimal(Console.ReadLine());
+                arr[0] = new Employees(id,name,sal);
+            }
 
             // Console.WriteLine(((Employees)arr1[0]).EmpId);
 
