@@ -1,0 +1,7 @@
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\bin\Debug\ExceptionEx.exe.config
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\bin\Debug\ExceptionEx.exe
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\bin\Debug\ExceptionEx.pdb
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\obj\Debug\ExceptionEx.csprojAssemblyReference.cache
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\obj\Debug\ExceptionEx.csproj.CoreCompileInputs.cache
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\obj\Debug\ExceptionEx.exe
+C:\Users\MOHIT\source\repos\Day7\ExceptionEx\obj\Debug\ExceptionEx.pdb

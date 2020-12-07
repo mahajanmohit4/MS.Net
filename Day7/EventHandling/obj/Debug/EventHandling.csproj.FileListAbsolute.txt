@@ -1,0 +1,14 @@
+C:\Users\MOHIT\source\repos\Day7\EventHandling\bin\Debug\EventHandling.exe.config
+C:\Users\MOHIT\source\repos\Day7\EventHandling\bin\Debug\EventHandling.exe
+C:\Users\MOHIT\source\repos\Day7\EventHandling\bin\Debug\EventHandling.pdb
+C:\Users\MOHIT\source\repos\Day7\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
+C:\Users\MOHIT\source\repos\Day7\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\MOHIT\source\repos\Day7\EventHandling\obj\Debug\EventHandling.exe
+C:\Users\MOHIT\source\repos\Day7\EventHandling\obj\Debug\EventHandling.pdb
+D:\study\DotNet\MS.Net\Day7\EventHandling\bin\Debug\EventHandling.exe.config
+D:\study\DotNet\MS.Net\Day7\EventHandling\bin\Debug\EventHandling.exe
+D:\study\DotNet\MS.Net\Day7\EventHandling\bin\Debug\EventHandling.pdb
+D:\study\DotNet\MS.Net\Day7\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day7\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day7\EventHandling\obj\Debug\EventHandling.exe
+D:\study\DotNet\MS.Net\Day7\EventHandling\obj\Debug\EventHandling.pdb

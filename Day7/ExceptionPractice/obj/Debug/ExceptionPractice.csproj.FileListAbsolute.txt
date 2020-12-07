@@ -1,0 +1,7 @@
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\bin\Debug\ExceptionPractice.exe.config
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\bin\Debug\ExceptionPractice.exe
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\bin\Debug\ExceptionPractice.pdb
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\obj\Debug\ExceptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\obj\Debug\ExceptionPractice.exe
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\obj\Debug\ExceptionPractice.pdb
+C:\Users\MOHIT\source\repos\Day7\ExceptionPractice\obj\Debug\ExceptionPractice.csprojAssemblyReference.cache

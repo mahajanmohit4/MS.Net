@@ -37,8 +37,15 @@ namespace Assignment04
 
             public decimal Marks { get; set; }
 
-           
-          
+
+            public Student(string Name1 = "asdf", int RollNo, decimal Marks)
+            {
+                this.name = "asd";
+                this.rollNo = 11;
+                this.marks = 1000;
+
+                this.Name = Name1;
+            }
 
             
 
