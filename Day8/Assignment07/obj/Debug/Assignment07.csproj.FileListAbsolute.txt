@@ -1,0 +1,7 @@
+C:\Users\MOHIT\source\repos\Day8\Assignment07\bin\Debug\Assignment07.exe.config
+C:\Users\MOHIT\source\repos\Day8\Assignment07\bin\Debug\Assignment07.exe
+C:\Users\MOHIT\source\repos\Day8\Assignment07\bin\Debug\Assignment07.pdb
+C:\Users\MOHIT\source\repos\Day8\Assignment07\obj\Debug\Assignment07.csprojAssemblyReference.cache
+C:\Users\MOHIT\source\repos\Day8\Assignment07\obj\Debug\Assignment07.csproj.CoreCompileInputs.cache
+C:\Users\MOHIT\source\repos\Day8\Assignment07\obj\Debug\Assignment07.exe
+C:\Users\MOHIT\source\repos\Day8\Assignment07\obj\Debug\Assignment07.pdb
