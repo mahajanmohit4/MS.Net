@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\bin\Debug\WorkingWithThreads.exe.config
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\bin\Debug\WorkingWithThreads.exe
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\bin\Debug\WorkingWithThreads.pdb
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\obj\Debug\WorkingWithThreads.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\obj\Debug\WorkingWithThreads.exe
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\obj\Debug\WorkingWithThreads.pdb
+D:\study\DotNet\MS.Net\Day10\WorkingWithThreads\obj\Debug\WorkingWithThreads.csprojAssemblyReference.cache

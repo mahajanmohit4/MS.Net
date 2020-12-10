@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\bin\Debug\AsyncCodeWithDelegate.exe.config
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\bin\Debug\AsyncCodeWithDelegate.exe
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\bin\Debug\AsyncCodeWithDelegate.pdb
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\obj\Debug\AsyncCodeWithDelegate.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\obj\Debug\AsyncCodeWithDelegate.exe
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\obj\Debug\AsyncCodeWithDelegate.pdb
+D:\study\DotNet\MS.Net\Day9\AsyncCodeWithDelegate\obj\Debug\AsyncCodeWithDelegate.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day9\LinqQuery\obj\Debug\LinqQuery.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day9\LinqQuery\obj\Debug\LinqQuery.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day9\LinqQuery\bin\Debug\LinqQuery.exe.config
+D:\study\DotNet\MS.Net\Day9\LinqQuery\bin\Debug\LinqQuery.exe
+D:\study\DotNet\MS.Net\Day9\LinqQuery\bin\Debug\LinqQuery.pdb
+D:\study\DotNet\MS.Net\Day9\LinqQuery\obj\Debug\LinqQuery.exe
+D:\study\DotNet\MS.Net\Day9\LinqQuery\obj\Debug\LinqQuery.pdb

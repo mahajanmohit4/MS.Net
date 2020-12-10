@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\bin\Debug\AsyncCodeWithDeletes.exe.config
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\bin\Debug\AsyncCodeWithDeletes.exe
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\bin\Debug\AsyncCodeWithDeletes.pdb
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\obj\Debug\AsyncCodeWithDeletes.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\obj\Debug\AsyncCodeWithDeletes.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\obj\Debug\AsyncCodeWithDeletes.exe
+D:\study\DotNet\MS.Net\Day10\AsyncCodeWithDeletes\obj\Debug\AsyncCodeWithDeletes.pdb
