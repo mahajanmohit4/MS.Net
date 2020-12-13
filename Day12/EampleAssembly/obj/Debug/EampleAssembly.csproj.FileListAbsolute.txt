@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\bin\Debug\EampleAssembly.exe.config
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\bin\Debug\EampleAssembly.exe
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\bin\Debug\EampleAssembly.pdb
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\obj\Debug\EampleAssembly.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\obj\Debug\EampleAssembly.exe
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\obj\Debug\EampleAssembly.pdb
+D:\study\DotNet\MS.Net\Day12\EampleAssembly\obj\Debug\EampleAssembly.csprojAssemblyReference.cache

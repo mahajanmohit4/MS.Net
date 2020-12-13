@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day12\TestAttributes\bin\Debug\TestAttributes.exe.config
+D:\study\DotNet\MS.Net\Day12\TestAttributes\bin\Debug\TestAttributes.exe
+D:\study\DotNet\MS.Net\Day12\TestAttributes\bin\Debug\TestAttributes.pdb
+D:\study\DotNet\MS.Net\Day12\TestAttributes\obj\Debug\TestAttributes.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12\TestAttributes\obj\Debug\TestAttributes.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12\TestAttributes\obj\Debug\TestAttributes.exe
+D:\study\DotNet\MS.Net\Day12\TestAttributes\obj\Debug\TestAttributes.pdb

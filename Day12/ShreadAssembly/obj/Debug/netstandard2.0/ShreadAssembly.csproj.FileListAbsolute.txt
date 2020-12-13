@@ -1,0 +1,9 @@
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\bin\Debug\netstandard2.0\ShreadAssembly.deps.json
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\bin\Debug\netstandard2.0\ShreadAssembly.dll
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\bin\Debug\netstandard2.0\ShreadAssembly.pdb
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.AssemblyInfoInputs.cache
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.AssemblyInfo.cs
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.dll
+D:\study\DotNet\MS.Net\Day12\ShreadAssembly\obj\Debug\netstandard2.0\ShreadAssembly.pdb

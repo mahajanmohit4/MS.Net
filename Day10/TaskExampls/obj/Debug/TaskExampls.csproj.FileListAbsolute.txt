@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day10\TaskExampls\obj\Debug\TaskExampls.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day10\TaskExampls\obj\Debug\TaskExampls.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day10\TaskExampls\bin\Debug\TaskExampls.exe.config
+D:\study\DotNet\MS.Net\Day10\TaskExampls\bin\Debug\TaskExampls.exe
+D:\study\DotNet\MS.Net\Day10\TaskExampls\bin\Debug\TaskExampls.pdb
+D:\study\DotNet\MS.Net\Day10\TaskExampls\obj\Debug\TaskExampls.exe
+D:\study\DotNet\MS.Net\Day10\TaskExampls\obj\Debug\TaskExampls.pdb

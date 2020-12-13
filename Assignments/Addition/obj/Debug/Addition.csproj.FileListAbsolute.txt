@@ -1,0 +1,15 @@
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\bin\Debug\Addition.exe.config
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\bin\Debug\Addition.exe
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\bin\Debug\Addition.pdb
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\MainWindow.g.cs
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\App.g.cs
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition_MarkupCompile.cache
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition_MarkupCompile.lref
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\MainWindow.baml
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.g.resources
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.Properties.Resources.resources
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.csproj.GenerateResource.cache
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.exe
+D:\study\DotNet\MS.Net\Day12-Practice\Addition\obj\Debug\Addition.pdb

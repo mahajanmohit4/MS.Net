@@ -1,0 +1,5 @@
+D:\study\DotNet\MS.Net\Day12_Prectice\SharedAssembly\bin\Debug\SharedAssembly.dll
+D:\study\DotNet\MS.Net\Day12_Prectice\SharedAssembly\bin\Debug\SharedAssembly.pdb
+D:\study\DotNet\MS.Net\Day12_Prectice\SharedAssembly\obj\Debug\SharedAssembly.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12_Prectice\SharedAssembly\obj\Debug\SharedAssembly.dll
+D:\study\DotNet\MS.Net\Day12_Prectice\SharedAssembly\obj\Debug\SharedAssembly.pdb

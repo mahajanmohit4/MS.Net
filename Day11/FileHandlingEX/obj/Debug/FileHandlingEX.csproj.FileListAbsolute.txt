@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\bin\Debug\FileHandlingEX.exe.config
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\bin\Debug\FileHandlingEX.exe
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\bin\Debug\FileHandlingEX.pdb
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\obj\Debug\FileHandlingEX.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\obj\Debug\FileHandlingEX.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\obj\Debug\FileHandlingEX.exe
+D:\study\DotNet\MS.Net\Day11\FileHandlingEX\obj\Debug\FileHandlingEX.pdb

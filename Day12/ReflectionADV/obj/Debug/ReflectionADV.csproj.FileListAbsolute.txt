@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\bin\Debug\ReflectionADV.exe.config
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\bin\Debug\ReflectionADV.exe
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\bin\Debug\ReflectionADV.pdb
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\obj\Debug\ReflectionADV.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\obj\Debug\ReflectionADV.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\obj\Debug\ReflectionADV.exe
+D:\study\DotNet\MS.Net\Day12\ReflectionADV\obj\Debug\ReflectionADV.pdb

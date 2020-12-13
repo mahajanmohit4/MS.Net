@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\bin\Debug\TestSharedAssembly.exe.config
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\bin\Debug\TestSharedAssembly.exe
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\bin\Debug\TestSharedAssembly.pdb
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\obj\Debug\TestSharedAssembly.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\obj\Debug\TestSharedAssembly.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\obj\Debug\TestSharedAssembly.exe
+D:\study\DotNet\MS.Net\Day12_Prectice\TestSharedAssembly\obj\Debug\TestSharedAssembly.pdb

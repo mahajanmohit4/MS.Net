@@ -1,0 +1,7 @@
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\obj\Debug\Assmeblyex.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\obj\Debug\Assmeblyex.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\bin\Debug\Assmeblyex.exe.config
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\bin\Debug\Assmeblyex.exe
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\bin\Debug\Assmeblyex.pdb
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\obj\Debug\Assmeblyex.exe
+D:\study\DotNet\MS.Net\Day12\Assmeblyex\obj\Debug\Assmeblyex.pdb

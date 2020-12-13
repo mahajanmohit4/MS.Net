@@ -1,0 +1,2 @@
+D:\study\DotNet\MS.Net\Day12\MyAttributes\obj\Debug\MyAttributes.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day12\MyAttributes\obj\Debug\MyAttributes.csproj.CoreCompileInputs.cache

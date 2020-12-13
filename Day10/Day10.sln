@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCodeWithDeletes", "Asy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithThreads", "WorkingWithThreads\WorkingWithThreads.csproj", "{FE9CBC9D-115F-44C9-BB37-8140DE04AB60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskExampls", "TaskExampls\TaskExampls.csproj", "{237303DD-56B0-404F-BE8D-35CBA184DCA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FE9CBC9D-115F-44C9-BB37-8140DE04AB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9CBC9D-115F-44C9-BB37-8140DE04AB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9CBC9D-115F-44C9-BB37-8140DE04AB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237303DD-56B0-404F-BE8D-35CBA184DCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237303DD-56B0-404F-BE8D-35CBA184DCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237303DD-56B0-404F-BE8D-35CBA184DCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237303DD-56B0-404F-BE8D-35CBA184DCA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

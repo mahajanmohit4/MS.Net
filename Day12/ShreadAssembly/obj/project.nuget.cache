@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/TPz+0mApukfjD5x/qcVajghmzC+CVpUMV4M2AZ8JMSpmf9lqyrAptlzPuc7mF2ojZtf7gOst4xX+hsoxbquA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\DotNet\\MS.Net\\Day12\\ShreadAssembly\\ShreadAssembly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MOHIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
