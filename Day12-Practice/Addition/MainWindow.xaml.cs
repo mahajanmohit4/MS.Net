@@ -29,13 +29,13 @@ namespace Addition
         private void txtNum1_KeyDown(object sender, KeyEventArgs e)
         {
             int ascii = KeyInterop.VirtualKeyFromKey(e.Key);
-
+          
             if (ascii >= 48 && ascii <= 57)
             {                
                 MessageBox.Show(KeyInterop.VirtualKeyFromKey(e.Key).ToString() + " " + ascii);
             }
             else {
-                e.Handled = true;
+                e.Handled = true; 
                 MessageBox.Show("Invalid Key Press");
             } 
 

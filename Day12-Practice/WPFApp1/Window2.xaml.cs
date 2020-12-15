@@ -21,7 +21,7 @@ namespace WPFApp1
     {
         static string firstName;
         static string lastName;
-       
+        
         public Window2()
         {
             InitializeComponent();

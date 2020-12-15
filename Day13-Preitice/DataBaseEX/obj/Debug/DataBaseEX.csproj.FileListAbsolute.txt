@@ -1,0 +1,15 @@
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\bin\Debug\DataBaseEX.exe.config
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\bin\Debug\DataBaseEX.exe
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\bin\Debug\DataBaseEX.pdb
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\MainWindow.g.cs
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\App.g.cs
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX_MarkupCompile.cache
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX_MarkupCompile.lref
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\MainWindow.baml
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.g.resources
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.Properties.Resources.resources
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.csproj.GenerateResource.cache
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.exe
+D:\study\DotNet\MS.Net\Day13-Preitice\DataBaseEX\obj\Debug\DataBaseEX.pdb

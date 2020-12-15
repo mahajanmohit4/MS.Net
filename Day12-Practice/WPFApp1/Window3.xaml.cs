@@ -35,7 +35,7 @@ namespace WPFApp1
         private void txtNum1_TextChanged(object sender, TextChangedEventArgs e)
         {
             x = Int32.Parse(txtNum1.Text);            
-            int sum = x;
+            int sum = x+y;
             txtSum.Text = sum.ToString();
         }
 

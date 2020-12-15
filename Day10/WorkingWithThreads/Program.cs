@@ -101,11 +101,11 @@ namespace WorkingWithThreads3
         }
         static void Main1()
         {
-            // Thread t1 = new Thread(new ParameterizedThreadStart(Func1));
+          //  Thread t1 = new Thread(new ParameterizedThreadStart(Func1));
             //Thread t2 = new Thread(new ParameterizedThreadStart(Func2));
             Thread t2 = new Thread(Func2);
-            Employee emp = new Employee { EmpNo = 11, EmpName = "Mohit" };
-           // t1.Start("0");
+            Employee emp = new Employee { EmpNo = 11, EmpName = "Mohit" }; 
+           // t1.Start(emp);
             t2.Start(emp);
             for (int i = 0; i < 10; i++)
             {

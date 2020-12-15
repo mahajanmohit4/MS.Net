@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3+7z37niPB9w+XRHgm6BEA8IWeduf6LsOj6EyjPLvLnTYRRDJ8pLRUw1TQT9Q1aj12TgNEpBNm6+eCdbxm0xw==",
+  "success": true,
+  "projectFilePath": "D:\\study\\DotNet\\MS.Net\\Day13-Preitice\\DatabaseExample\\DatabaseExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHIT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\MOHIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
