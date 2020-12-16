@@ -29,7 +29,7 @@ namespace DatabaseDemo
         {
             SqlConnection cn = new SqlConnection();
             cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
-
+           
             cn.Open();
 
             SqlCommand cmd = new SqlCommand();

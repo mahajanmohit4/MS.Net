@@ -1,0 +1,15 @@
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\bin\Debug\LinqToSql.exe.config
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\bin\Debug\LinqToSql.exe
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\bin\Debug\LinqToSql.pdb
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\MainWindow.g.cs
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\App.g.cs
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.cache
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.lref
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\MainWindow.baml
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.g.resources
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.exe
+D:\study\DotNet\MS.Net\Day15 Linq-Sql\LinqToSql\obj\Debug\LinqToSql.pdb

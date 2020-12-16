@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Emps diffgr:id="Emps1" msdata:rowOrder="0">
+      <EmpNo>100</EmpNo>
+      <Name>Akash</Name>
+      <Basic>60000.00</Basic>
+      <DeptNo>11</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps2" msdata:rowOrder="1">
+      <EmpNo>111</EmpNo>
+      <Name>MOHIT</Name>
+      <Basic>123456.00</Basic>
+      <DeptNo>11</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps3" msdata:rowOrder="2">
+      <EmpNo>222</EmpNo>
+      <Name>Pravin</Name>
+      <Basic>123445.00</Basic>
+      <DeptNo>22</DeptNo>
+    </Emps>
+    <Deps diffgr:id="Deps1" msdata:rowOrder="0">
+      <DeptNo>11</DeptNo>
+      <DeptName>HR</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps2" msdata:rowOrder="1">
+      <DeptNo>22</DeptNo>
+      <DeptName>CS</DeptName>
+    </Deps>
+  </NewDataSet>
+</diffgr:diffgram>

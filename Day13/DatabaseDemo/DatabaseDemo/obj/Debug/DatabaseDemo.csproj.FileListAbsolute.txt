@@ -17,3 +17,9 @@ D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Update.g.cs
 D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Update.baml
 D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window1.g.cs
 D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window1.baml
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window2.g.cs
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window2.baml
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window3.g.cs
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window3.baml
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window4.g.cs
+D:\study\DotNet\MS.Net\Day13\DatabaseDemo\DatabaseDemo\obj\Debug\Window4.baml

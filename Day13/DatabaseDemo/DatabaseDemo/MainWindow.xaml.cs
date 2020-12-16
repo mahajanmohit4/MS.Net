@@ -123,28 +123,39 @@ namespace DatabaseDemo
             cn.Close();
 
         }
-
+        //Transaction
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             SqlConnection cn = new SqlConnection();
             cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
-
             cn.Open();
-
+            SqlTransaction t = cn.BeginTransaction();
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cn;
+            cmd.Transaction = t;
             cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "insert into Employees vlaues(100,'new',1234,11)";
+            cmd.CommandText = "insert into Employees values(300,'new emp',12345,10)";
+            SqlCommand cmd2 = new SqlCommand();
+            cmd2.Connection = cn;
+            cmd2.Transaction = t;
+            cmd2.CommandType = CommandType.Text;
+            cmd2.CommandText = "insert into Employees values(300,'new emp2',12345,10)";
             try
             {
                 cmd.ExecuteNonQuery();
+                cmd2.ExecuteNonQuery();
+                t.Commit();
+                MessageBox.Show("commit");
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-
+                t.Rollback();
             }
-            cn.Close();
+            finally
+            {
+                cn.Close();
+            }
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
