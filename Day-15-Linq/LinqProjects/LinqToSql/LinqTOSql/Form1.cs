@@ -17,7 +17,7 @@ namespace LinqTOSql
         {
             InitializeComponent();
         }
-
+        
         private void insert_Click(object sender, EventArgs e)
         {
             DataClasses1DataContext dbContext = new DataClasses1DataContext();
@@ -60,37 +60,7 @@ namespace LinqTOSql
 
         private void update_Click(object sender, EventArgs e)
         {
-            DataClasses1DataContext dbContext = new DataClasses1DataContext();
-            Employee o = dbContext.Employees.SingleOrDefault(emp => emp.EmpNo == Convert.ToInt32(txtEmpNo.Text));
-            if (o != null)
-            {
-                try
-                {
-                    
-                    o.Name = txtName.Text;
-                    o.Basic = Convert.ToDecimal(txtBasic.Text);
-                    o.DeptNo = Convert.ToInt32(txtDeptNo.Text);
-                
-                    dbContext.SubmitChanges();
-                }
-
-                catch (InvalidEmpNoException ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
-
-                catch (InvalidNameException ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
-
-                catch (InvalidBasicException ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
-
-            }
-            else MessageBox.Show("Employee with given employee number doesnt exists");
+           
 
 
 

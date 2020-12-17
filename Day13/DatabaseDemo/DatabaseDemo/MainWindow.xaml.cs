@@ -30,17 +30,13 @@ namespace DatabaseDemo
         {
             SqlConnection cn = new SqlConnection();
             cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
-            //cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;User Id=sa;Password=sa";
-
-            //Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=True
-
+           
             cn.Open();
 
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cn;
             cmd.CommandType = CommandType.Text;
-            //cmd.CommandText = "insert into Employees values(1,'Vikram',10000, 10)";
-            // )
+            
             cmd.CommandText = "insert into Employees values(" + txtEmpNo.Text + ",'" + txtName.Text + "',"
                 + txtBasic.Text + "," + txtDeptNo.Text + ")";
             MessageBox.Show(cmd.CommandText);
@@ -94,9 +90,7 @@ namespace DatabaseDemo
         {
             SqlConnection cn = new SqlConnection();
             cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
-
             cn.Open();
-
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cn;
             cmd.CommandType = CommandType.StoredProcedure;
@@ -107,13 +101,11 @@ namespace DatabaseDemo
             cmd.Parameters.AddWithValue("@Name", txtName.Text);
             cmd.Parameters.AddWithValue("@Basic", txtBasic.Text);
             cmd.Parameters.AddWithValue("@DeptNo", txtDeptNo.Text);
-
             // MessageBox.Show(cmd.CommandText);
             try
             {
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("okay");
-
             }
             catch (Exception ex)
             {
@@ -170,15 +162,7 @@ namespace DatabaseDemo
             cmd.CommandType = CommandType.Text;
             cmd.CommandText = "select count(*) from Employees";
             MessageBox.Show(cmd.ExecuteScalar().ToString()); //single value
-            //try
-            //{
-            //    cmd.ExecuteNonQuery();
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show(ex.Message);
-
-            //}
+            
             cn.Close();
         }
     }

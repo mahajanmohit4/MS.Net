@@ -15,8 +15,8 @@
         <Button Content="Reject Changes (Undo)" HorizontalAlignment="Left" Margin="525,290,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click_4"/>
         <Button Content="Filter" HorizontalAlignment="Left" Margin="233,375,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_5"/>
         <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="353,376,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Button Content="savve to file" HorizontalAlignment="Left" Margin="569,335,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
-        <Button Content="get from file" HorizontalAlignment="Left" Margin="584,376,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_7"/>
+        <Button Content="savve to file" HorizontalAlignment="Left" Margin="569,335,0,0" VerticalAlignment="Top" Width="125" Click="Button_Click_6"/>
+        <Button Content="get from file" HorizontalAlignment="Left" Margin="548,375,0,0" VerticalAlignment="Top" Width="152" Click="Button_Click_7"/>
 
     </Grid>
 </Window>

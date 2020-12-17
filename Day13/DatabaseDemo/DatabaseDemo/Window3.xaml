@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="Window3" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name="dgEmps" HorizontalAlignment="Left" Height="222" Margin="34,29,0,0" VerticalAlignment="Top" Width="231" RenderTransformOrigin="0.5,0.5">
+        <DataGrid x:Name="dgEmps" HorizontalAlignment="Left" Height="211" Margin="34,40,0,0" VerticalAlignment="Top" Width="233" RenderTransformOrigin="0.5,0.5">
             <DataGrid.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
-                    <SkewTransform AngleY="6.217"/>
+                    <SkewTransform AngleY="4.18"/>
                     <RotateTransform Angle="-3.206"/>
-                    <TranslateTransform Y="5.447"/>
+                    <TranslateTransform Y="1.277" X="-0.234"/>
                 </TransformGroup>
             </DataGrid.RenderTransform>
         </DataGrid>

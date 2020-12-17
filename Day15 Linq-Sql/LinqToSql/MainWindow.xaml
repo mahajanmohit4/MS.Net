@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="EmpNo" HorizontalAlignment="Left" Margin="46,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="216,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Basic" HorizontalAlignment="Left" Margin="397,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.39,0.46"/>
+        <Label Content="DeptNo" HorizontalAlignment="Left" Margin="632,26,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtEmpNo" HorizontalAlignment="Left" Height="23" Margin="18,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="190,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBasic" HorizontalAlignment="Left" Height="23" Margin="373,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="603,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Button Content="Insert" HorizontalAlignment="Left" Margin="46,117,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <DataGrid x:Name="dgView1" HorizontalAlignment="Left" Height="168" Margin="89,223,0,0" VerticalAlignment="Top" Width="297"/>
+        <Button Content="Show" HorizontalAlignment="Left" Margin="624,117,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="216,117,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="397,117,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+
     </Grid>
 </Window>

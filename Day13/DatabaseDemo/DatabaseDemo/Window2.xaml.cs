@@ -58,13 +58,7 @@ namespace DatabaseDemo
 
             // dgEmps.ItemsSource = ds.Tables[0].DefaultView;
             dgEmps.ItemsSource = ds.Tables["Emps"].DefaultView;
-
-
-
             cn.Close();
-
-
-
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -79,13 +73,6 @@ namespace DatabaseDemo
             cmdUpdate.CommandType = CommandType.Text;
             cmdUpdate.CommandText = "update Employees set Name =@Name, Basic= @Basic, DeptNo = @DeptNo where EmpNo =@EmpNo";
 
-            // cmdUpdate.Parameters.AddWithValue("@Name", txtName.Text);
-
-            //SqlParameter p = new SqlParameter();
-            //p.ParameterName = "@Name";
-            //p.SourceColumn = "Name";
-            //p.SourceVersion = DataRowVersion.Current;
-            //cmdUpdate.Parameters.Add(p);
             cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@Name", SourceColumn = "Name", SourceVersion = DataRowVersion.Current });
             cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@Basic", SourceColumn = "Basic", SourceVersion = DataRowVersion.Current });
             cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", SourceColumn = "DeptNo", SourceVersion = DataRowVersion.Current });

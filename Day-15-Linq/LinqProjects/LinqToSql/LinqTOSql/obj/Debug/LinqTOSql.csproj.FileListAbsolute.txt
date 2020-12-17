@@ -7,3 +7,13 @@ c:\users\surajg\documents\visual studio 2012\projects\LinqToSql\LinqTOSql\obj\De
 c:\users\surajg\documents\visual studio 2012\projects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.csproj.GenerateResource.Cache
 c:\users\surajg\documents\visual studio 2012\projects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.exe
 c:\users\surajg\documents\visual studio 2012\projects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.pdb
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\bin\Debug\LinqTOSql.exe.config
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\bin\Debug\LinqTOSql.exe
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\bin\Debug\LinqTOSql.pdb
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.csprojAssemblyReference.cache
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.Form1.resources
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.Properties.Resources.resources
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.csproj.GenerateResource.cache
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.csproj.CoreCompileInputs.cache
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.exe
+D:\study\DotNet\MS.Net\Day-15-Linq\LinqProjects\LinqToSql\LinqTOSql\obj\Debug\LinqTOSql.pdb

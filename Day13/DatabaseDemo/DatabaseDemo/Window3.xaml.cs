@@ -25,6 +25,7 @@ namespace DatabaseDemo
             InitializeComponent();
         }
         MyDataSet ds;
+        
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             ds = new MyDataSet();

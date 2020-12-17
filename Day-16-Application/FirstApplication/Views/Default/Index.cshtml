@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table>
+    @for (int j = 0; j < 5; j++)
+    {
+    <tr>
+        <td>@j </td>
+        <td>*</td>
+        <td>5</td>
+        <td>=</td>
+        <td>@(j*5)</td>
+    </tr>
+    }
+
+</table>

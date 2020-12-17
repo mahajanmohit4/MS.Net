@@ -60,6 +60,7 @@
     <Compile Include="InvalidBasicException.cs" />
     <Compile Include="InvalidEmpNoException.cs" />
     <Compile Include="InvalidNameException.cs" />
+    <Compile Include="MyDataSet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="DataClasses1.dbml.layout">

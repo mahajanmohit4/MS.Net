@@ -36,8 +36,6 @@ namespace DatabaseDemo
             cmd.Connection = cn;
             cmd.CommandType = CommandType.Text;
             cmd.CommandText = "select * from Employees";
-
-
             SqlDataReader dr = cmd.ExecuteReader();
 
             while (dr.Read())
