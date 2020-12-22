@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Home</h2>
+
+@using (Html.BeginForm("Homelogout", "Friend"))
+{
+    <h1>Home Page</h1>
+
+
+    <h3> Welcome @Session["username"]</h3>
+    <h3>full name is @Session["fullname"]</h3>
+
+
+    @Html.ActionLink("UpdateProfile", "update", new { id = @Session["username"] })
+    @Html.ActionLink("DeleteProfile", "Delete", new { id = 11 })
+    <input type="submit" value="Logout" />
+
+}
